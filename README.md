@@ -27,7 +27,7 @@ Automated with a `Makefile` to simplify common tasks (build, start, stop...).
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/youruser/your-project.git
+git clone https://github.com/marcosmendez-padelgroup/laravel_docker_template_back
 cd laravel_docker_template_back
 ```
 
