@@ -28,7 +28,7 @@ Automated with a `Makefile` to simplify common tasks (build, start, stop...).
 
 ```bash
 git clone https://github.com/marcosmendez-padelgroup/laravel_docker_template_back
-cd laravel_docker_template_back
+cd laravel_docker_template_back 
 ```
 
 2. Configure the port (if needed) in the Docker `.env` file:
